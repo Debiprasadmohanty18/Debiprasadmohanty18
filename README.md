@@ -1,7 +1,7 @@
 ![logo](https://github.com/Debiprasadmohanty18/Debiprasadmohanty18/blob/main/GitHub%20Video.gif)
 <h1 align="center">Hi 👋, I'm Debiprasad Mohanty</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha,India.</h3>
-<img align="Right" alt="Coder" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+<img align="right" alt="Coder" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiprasadmohanty18&label=Profile%20views&color=0e75b6&style=flat" alt="debiprasadmohanty18" /> </p>
 
