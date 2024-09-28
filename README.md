@@ -1,4 +1,4 @@
-![logo]([https://github.com/Debiprasadmohanty18/Debiprasadmohanty18/blob/main/GitHub%20Video.gif](https://github.com/Debiprasadmohanty18/Debiprasadmohanty18/blob/main/Web_Photo_Editor.jpg))
+![logo](Github.jpg)
 <h1 align="center">Hi 👋, I'm Debiprasad Mohanty</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha,India.</h3>
 <img align="right" alt="Coder" border-radius="50%" width="400" src="UI Developer.gif">
