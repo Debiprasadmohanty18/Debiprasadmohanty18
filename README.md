@@ -1,4 +1,4 @@
-![logo](Github.jpg)
+![logo](Github_bg.jpg)
 <h1 align="center">Hi 👋, I'm Debiprasad Mohanty</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha,India.</h3>
 <img align="right" alt="Coder" border-radius="50%" width="400" src="UI Developer.gif">
