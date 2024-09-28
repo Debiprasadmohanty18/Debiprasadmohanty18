@@ -7,7 +7,7 @@
 
 - 🎓 Recently MCA Graduated.
 
-- 🌱 I’m currently learning **Spring,Microservices,DevOps**
+- 🌱 I’m currently learning **Spring Boot,Microservices**
 
 - 🔭 I’m currently working on **a Java Project**
 
