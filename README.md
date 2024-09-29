@@ -1,7 +1,7 @@
 ![logo](Github_bg.jpg)
 <h1 align="center">Hi 👋, I'm Debiprasad Mohanty</h1>
 <h3 align="center">Aspiring Software Engineer from Odisha,India.</h3>
-<img align="right" alt="Coder" border-radius="50%" width="400" src="UI Developer.gif">
+<img align="right" alt="Coder" width="400" src="UI Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiprasadmohanty18&label=Profile%20views&color=0e75b6&style=flat" alt="debiprasadmohanty18" /> </p>
 
