@@ -1,25 +1,25 @@
 ![logo](Github_bg.jpg)
 <h1 align="center">Hi 👋, I'm Debiprasad Mohanty</h1>
-<h3 align="center">Aspiring Software Engineer from Odisha,India.</h3>
+<h3 align="center">Associate Software Engineer @Accenture</h3>
 <img align="right" alt="Coder" width="400" src="UI Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiprasadmohanty18&label=Profile%20views&color=0e75b6&style=flat" alt="debiprasadmohanty18" /> </p>
 
-- 🎓 Recently MCA Graduated.
+- 🎓 MCA Graduated in 2024.
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Gen AI**
 
-- 🔭 I’m currently working on **a Java Project**
+- 🔭 I’m currently working on **SAP Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://debiprasadmohanty18.github.io/Responsive-Portfolio/](https://debiprasadmohanty18.github.io/Responsive-Portfolio/)
 
-- 💬 Ask me about **Java,SQL**
+- 💬 Ask me about **AI,Java,SQL,Python,Numpy,SAP ABAP,RAP,CDS**
 
 - 📫 How to reach me **iamdebiprasad2001@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/66b25ca6603b707b1ece2972](https://app.luminpdf.com/viewer/66b25ca6603b707b1ece2972)
 
-- ⚡ Fun fact **I am a Funny Guy😅**
+- ⚡ I love to play **Cricket**
 
 -  💻 + 🏏 = ❤️
 
